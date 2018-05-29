@@ -1,3 +1,3 @@
 # Android_Csharp
 
-This is just a random collection of related Android tutorial with C#.
+A C# program to demonstrate the creation of group items and child items for expandable list view.
